@@ -1,0 +1,36 @@
+body{
+	background-color: lightblue;
+	}
+
+h1{
+	text-align: center;
+	color: yellow; size: 5000px;
+	}
+	
+h2{
+	text-align: center;
+	color: yellow; size: 4000px;
+	}
+h3{
+	text-align: center;
+	color: yellow; size: 4000px;
+	}	
+
+h4{
+	text-align: left;
+	color: blue; size: 5000px;
+	}			
+body{
+	background: bubbles.jpg;
+	background-repeat: no-repeat;
+	background-size: 80%;
+	background-position: center;
+	}
+	
+div.center {
+	text-align: center;
+}
+
+div.nestedlist {
+	text-align: left;
+}
